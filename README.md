@@ -48,12 +48,9 @@ Fish environment setup by typing in terminal
 sudo chmod 444 /etc/environment
 ```
 
-## Launch
+## Launch and Pause
 
-Launch Clash by typing in terminal
-```sh
-cd opt/clash
-.cfw
-```
-When the GUI pops out, select on `General` and switch on `Start with Linux`.
+The Clash GUI pops up every time the Linux OS starts up.
+Select on `Connection` and click `Pause` if you wish to pause the proxy.
+Minimize the GUI windows instead of close it off when in use.
 
