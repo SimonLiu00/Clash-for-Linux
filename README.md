@@ -43,6 +43,10 @@ FTP_PROXY=http://127.0.0.1:7890/
 ```
 Press `Enter` and then press `Esc` to exit edting.
 Press `Shift`+`;`, type `wq` and press `Enter` to save and quit. 
+Fish environment setup by typing in terminal
+```sh
+sudo chmod 444 /etc/environment
+```
 
 ## Launch
 
