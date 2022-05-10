@@ -2,7 +2,7 @@
 
 ## Installation
 
-Download the `.tar.gz` file from the latest release at `Fondroid/clash_for_windows_pkg`, and save it in, say, ~/Desktop.
+Download the `.tar.gz` file from the [latest release][https://github.com/Fndroid/clash_for_windows_pkg/releases/latest] at `Fondroid/clash_for_windows_pkg`, and save it in, say, ~/Desktop.
 Unzip and rename the destination folder to `clash` by typing in terminal
 ```sh
 tar -zxf Clash.for.Windows-*-x64-linux.tar.gz
