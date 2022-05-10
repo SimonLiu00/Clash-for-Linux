@@ -8,7 +8,7 @@ Unzip and rename the destination folder to `clash` by typing in terminal
 tar -zxf Clash.for.Windows-*-x64-linux.tar.gz
 mv Clash.for.Windows-*-x64-linux clash
 ```
-Move `clash` to /opt by typing in terminal
+Move `clash` to `/opt` by typing in terminal
 ```sh
 sudo mv clash /opt
 ```
